@@ -1,10 +1,15 @@
 class Solution:
     def isHappy(self, n: int) -> bool:
-        while n>9:
-            s=0
-            while n!=0:
-                s+=(n%10)**2
-                n//=10
-            n=s
-        return n==1 or n==7
-        
+        dsum=self.sq_num(n)
+        if dsum>9:
+            return self.isHappy(dsum)
+        else:
+            if dsum==1 or dsum==7:
+                return True
+            else:
+                return False
+    def sq_num(self,n):
+        if n==0:
+            return 0
+        return ((n%10)**2)+self.sq_num(n//10)
+    
