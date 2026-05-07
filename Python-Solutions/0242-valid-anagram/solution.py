@@ -1,17 +1,24 @@
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
-        return {char:s.count(char) for char in s}=={char:t.count(char) for char in t}
-    #     l=len(s)
-    #    # l1=len(t)
-    #     c=0
-    #     if len(s)==len(t):
-    #         for ch in s:
-    #             if ch in t:
-    #                 c+=1
-    #                 s=s.replace(ch,'',1)
-    #                 t=t.replace(ch,'',1)
+        sd={}
+        td={}
+        count=1
+        for l in s:
+            if l not in sd:
+                sd[l]=count
+                count=1
+            else:
+                sd[l]=sd[l]+1
+        for l in t:
+            if l not in td:
+                td[l]=count
+                count=1
+            else:
+                td[l]=td[l]+1
 
-    #         return c==l
-    #     return False
-
-            
+        if len(s)!=len(t):
+            return False
+        elif sd==td:
+            return True
+        else:
+            return False
