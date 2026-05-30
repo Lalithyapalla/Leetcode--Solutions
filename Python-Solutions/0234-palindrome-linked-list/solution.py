@@ -1,29 +1,32 @@
 class Solution:
     def isPalindrome(self, head: Optional[ListNode]) -> bool:
-        if not head or not head.next:
+        cur = head
+        l = []
+        while cur != None:
+            l.append(cur.val)
+            cur = cur.next
+        return l == l[::-1]
+        """if head == None or head.next == None:
             return True
-        
-        # 1. Find the middle
-        slow = fast = head
-        while fast and fast.next:
-            slow = slow.next
-            fast = fast.next.next
-        
-        # 2. Reverse the second half
-        # MOVE PREV OUTSIDE THE FIRST LOOP
-        prev = None 
-        while slow:
-            temp = slow.next
-            slow.next = prev
-            prev = slow
-            slow = temp
-            
-        # 3. Compare the halves
-        left, right = head, prev
-        while right: 
-            if left.val != right.val:
-                return False
-            left = left.next
-            right = right.next
-            
-        return True
+        fwdlist = self.display(head)
+        rvslist = self.reverse(head)
+        bcklist = self.display(rvslist)
+        return fwdlist == bcklist
+    def display(self,head):
+        l1 = []
+        cur = head
+        while cur != None:
+            l1.append(cur.val)
+            cur = cur.next
+        return l1
+    def reverse(self,head):
+        cur = head
+        prev = nxt = None
+        while cur != None:
+            nxt = cur.next
+            cur.next = prev
+            prev = cur
+            cur = nxt
+        return prev
+            """
+       
