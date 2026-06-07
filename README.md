@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0273-integer-to-english-words) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Divide and Conquer
 |  |
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+## Array
+|  |
+| ------- |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 <!---LeetCode Topics End-->
