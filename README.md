@@ -59,6 +59,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/1018-binary-prefix-divisible-by-5) |
 <!---LeetCode Topics End-->
