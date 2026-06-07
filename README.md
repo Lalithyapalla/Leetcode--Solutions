@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0070-climbing-stairs) |
 | [0273-integer-to-english-words](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0273-integer-to-english-words) |
+| [0372-super-pow](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0372-super-pow) |
 | [0509-fibonacci-number](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/1137-n-th-tribonacci-number) |
 ## Dynamic Programming
@@ -35,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0273-integer-to-english-words) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0372-super-pow) |
 <!---LeetCode Topics End-->
