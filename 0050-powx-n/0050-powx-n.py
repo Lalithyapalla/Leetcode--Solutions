@@ -11,3 +11,5 @@ class Solution:
             prod = prod * prod
             n = n // 2 
         return res
+
+        """return x**n"""
