@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0070-climbing-stairs) |
 | [0273-integer-to-english-words](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0273-integer-to-english-words) |
 | [0509-fibonacci-number](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0509-fibonacci-number) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0050-powx-n) |
 | [0273-integer-to-english-words](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0273-integer-to-english-words) |
 | [0509-fibonacci-number](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0509-fibonacci-number) |
 ## String
