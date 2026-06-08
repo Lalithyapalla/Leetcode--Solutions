@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0520-detect-capital) |
 | [2129-capitalize-the-title](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/2129-capitalize-the-title) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Divide and Conquer
 |  |
@@ -69,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/1018-binary-prefix-divisible-by-5) |
+## Hash Table
+|  |
+| ------- |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/3120-count-the-number-of-special-characters-i) |
 <!---LeetCode Topics End-->
