@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0273-integer-to-english-words](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0273-integer-to-english-words) |
 | [0520-detect-capital](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0520-detect-capital) |
+| [1796-second-largest-digit-in-a-string](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/1796-second-largest-digit-in-a-string) |
 | [2129-capitalize-the-title](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/2129-capitalize-the-title) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -73,5 +74,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1796-second-largest-digit-in-a-string](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/1796-second-largest-digit-in-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/3120-count-the-number-of-special-characters-i) |
 <!---LeetCode Topics End-->
