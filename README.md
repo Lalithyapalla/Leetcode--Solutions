@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0520-detect-capital) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/1796-second-largest-digit-in-a-string) |
 | [2129-capitalize-the-title](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/2129-capitalize-the-title) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -75,5 +76,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1796-second-largest-digit-in-a-string](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/1796-second-largest-digit-in-a-string) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/3120-count-the-number-of-special-characters-i) |
+## Enumeration
+|  |
+| ------- |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 <!---LeetCode Topics End-->
