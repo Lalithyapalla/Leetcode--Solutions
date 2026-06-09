@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0273-integer-to-english-words) |
+| [0383-ransom-note](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0383-ransom-note) |
 | [0520-detect-capital](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0520-detect-capital) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/1796-second-largest-digit-in-a-string) |
 | [2129-capitalize-the-title](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/2129-capitalize-the-title) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0383-ransom-note) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/1796-second-largest-digit-in-a-string) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/1672-richest-customer-wealth) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
