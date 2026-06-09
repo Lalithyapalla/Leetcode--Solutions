@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0027-remove-element) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1480-running-sum-of-1d-array](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/1480-running-sum-of-1d-array) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2644-find-the-maximum-divisibility-score](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/2644-find-the-maximum-divisibility-score) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
@@ -89,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0027-remove-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
