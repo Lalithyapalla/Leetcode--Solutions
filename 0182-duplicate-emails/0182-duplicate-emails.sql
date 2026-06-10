@@ -1,4 +1,4 @@
-select distinct p.email AS Email
-from Person p
-where (select count(*) from Person duplicate
-where duplicate.email = p.email) > 1;
+select email Email 
+from Person
+group by email
+having count(email) > 1;
