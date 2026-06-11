@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0511-game-play-analysis-i](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0511-game-play-analysis-i) |
 | [0577-employee-bonus](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0577-employee-bonus) |
 | [0619-biggest-single-number](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0619-biggest-single-number) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/1683-invalid-tweets) |
 ## Math
 |  |
