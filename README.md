@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0027-remove-element) |
+| [0219-contains-duplicate-ii](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0219-contains-duplicate-ii) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1480-running-sum-of-1d-array](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/1672-richest-customer-wealth) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0219-contains-duplicate-ii) |
 | [0383-ransom-note](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0383-ransom-note) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/1796-second-largest-digit-in-a-string) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0383-ransom-note) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
