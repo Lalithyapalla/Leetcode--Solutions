@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/2169-count-operations-to-obtain-zero) |
+| [2413-smallest-even-multiple](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/2413-smallest-even-multiple) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Dynamic Programming
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1952-three-divisors](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2413-smallest-even-multiple](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/2413-smallest-even-multiple) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Array
 |  |
