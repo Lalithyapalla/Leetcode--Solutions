@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0372-super-pow](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0372-super-pow) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0509-fibonacci-number](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0509-fibonacci-number) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/1137-n-th-tribonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/2169-count-operations-to-obtain-zero) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0383-ransom-note) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0520-detect-capital](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0520-detect-capital) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/1768-merge-strings-alternately) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/1796-second-largest-digit-in-a-string) |
 | [2129-capitalize-the-title](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/2129-capitalize-the-title) |
