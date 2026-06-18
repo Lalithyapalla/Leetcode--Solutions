@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/1137-n-th-tribonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1952-three-divisors](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/2169-count-operations-to-obtain-zero) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Array
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/1952-three-divisors) |
 | [1995-count-special-quadruplets](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/1995-count-special-quadruplets) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 ## Two Pointers
