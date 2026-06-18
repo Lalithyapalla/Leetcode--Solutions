@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0027-remove-element) |
 | [0219-contains-duplicate-ii](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0496-next-greater-element-i) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0027-remove-element) |
 ## Prefix Sum
 |  |
@@ -141,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0496-next-greater-element-i) |
+## Sorting
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
