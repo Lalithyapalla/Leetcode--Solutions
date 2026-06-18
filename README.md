@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/1137-n-th-tribonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/2169-count-operations-to-obtain-zero) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Array
 |  |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-binary-prefix-divisible-by-5](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1480-running-sum-of-1d-array](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/1672-richest-customer-wealth) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1995-count-special-quadruplets](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/1995-count-special-quadruplets) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2644-find-the-maximum-divisibility-score](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/2644-find-the-maximum-divisibility-score) |
