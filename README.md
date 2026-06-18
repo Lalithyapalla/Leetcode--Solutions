@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-binary-prefix-divisible-by-5](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1480-running-sum-of-1d-array](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/1672-richest-customer-wealth) |
+| [1995-count-special-quadruplets](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/1995-count-special-quadruplets) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2644-find-the-maximum-divisibility-score](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/2644-find-the-maximum-divisibility-score) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
@@ -109,11 +110,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0496-next-greater-element-i) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/1796-second-largest-digit-in-a-string) |
+| [1995-count-special-quadruplets](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/1995-count-special-quadruplets) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Enumeration
 |  |
 | ------- |
+| [1995-count-special-quadruplets](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/1995-count-special-quadruplets) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 ## Two Pointers
 |  |
