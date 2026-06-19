@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0027-remove-element) |
 | [0219-contains-duplicate-ii](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0219-contains-duplicate-ii) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0496-next-greater-element-i) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1480-running-sum-of-1d-array](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/1480-running-sum-of-1d-array) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0219-contains-duplicate-ii) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0496-next-greater-element-i) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/1796-second-largest-digit-in-a-string) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0027-remove-element) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1768-merge-strings-alternately](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/1768-merge-strings-alternately) |
 ## Prefix Sum
 |  |
@@ -167,4 +170,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0018-4sum) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0350-intersection-of-two-arrays-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
