@@ -7,5 +7,4 @@ class Solution:
             else:
                 res[num] += 1
                 #{1:3,2:2,3:2}
-        keys = len(res.values())
-        return keys == len(set(res.values()))
+        return len(res.values()) == len(set(res.values()))
