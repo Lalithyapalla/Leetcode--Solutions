@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0383-ransom-note) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0520-detect-capital](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0520-detect-capital) |
+| [0819-most-common-word](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0819-most-common-word) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/1768-merge-strings-alternately) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/1796-second-largest-digit-in-a-string) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0219-contains-duplicate-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0496-next-greater-element-i) |
+| [0819-most-common-word](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0819-most-common-word) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1207-unique-number-of-occurrences](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/1207-unique-number-of-occurrences) |
 | [1480-running-sum-of-1d-array](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/1480-running-sum-of-1d-array) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0496-next-greater-element-i) |
+| [0819-most-common-word](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0819-most-common-word) |
 | [1207-unique-number-of-occurrences](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/1207-unique-number-of-occurrences) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/1796-second-largest-digit-in-a-string) |
 | [1995-count-special-quadruplets](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/1995-count-special-quadruplets) |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0383-ransom-note) |
+| [0819-most-common-word](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0819-most-common-word) |
 ## Sliding Window
 |  |
 | ------- |
