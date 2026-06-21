@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0070-climbing-stairs) |
+| [0338-counting-bits](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0338-counting-bits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
