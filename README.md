@@ -56,12 +56,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0050-powx-n) |
 | [0273-integer-to-english-words](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0273-integer-to-english-words) |
+| [0394-decode-string](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0509-fibonacci-number) |
 ## String
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0273-integer-to-english-words) |
 | [0383-ransom-note](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0383-ransom-note) |
+| [0394-decode-string](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0394-decode-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0520-detect-capital](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0520-detect-capital) |
 | [0819-most-common-word](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0819-most-common-word) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
