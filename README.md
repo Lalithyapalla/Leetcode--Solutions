@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0205-isomorphic-strings) |
 | [0273-integer-to-english-words](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0273-integer-to-english-words) |
+| [0290-word-pattern](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0383-ransom-note) |
 | [0394-decode-string](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0394-decode-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0219-contains-duplicate-ii) |
+| [0290-word-pattern](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/0496-next-greater-element-i) |
