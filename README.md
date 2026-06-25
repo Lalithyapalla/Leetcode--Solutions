@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-percentage-of-users-attended-a-contest](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1683-invalid-tweets](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/1683-invalid-tweets) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
+| [1789-primary-department-for-each-employee](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/1789-primary-department-for-each-employee) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Lalithyapalla/Leetcode---Journey/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Math
